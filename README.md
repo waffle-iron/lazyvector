@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/NazarKY/lazyvector.png?label=ready&title=Ready)](https://waffle.io/NazarKY/lazyvector)
 # README
 
 This README would normally document whatever steps are necessary to get the
